@@ -123,4 +123,4 @@ Referência de UI/UX: site oficial da Porsche Brasil.
 
 ---
 
-Projeto desenvolvido para o desafio de dashboard HTML da DIO.
+Projeto desenvolvido para o curso Aceleração: AI Reports com Excel, GPT Agents e Claude Code da DIO.
