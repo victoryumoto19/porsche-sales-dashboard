@@ -101,7 +101,7 @@ Baixe o repositório e abra o arquivo `index.html` em um navegador moderno.
 
 ## Dashboard publicada
 
-**GitHub Pages:** `COLE_AQUI_O_LINK_DA_DASHBOARD`
+**GitHub Pages:** (https://victoryumoto19.github.io/porsche-sales-dashboard/)
 
 ## Evidências
 
@@ -109,13 +109,13 @@ Baixe o repositório e abra o arquivo `index.html` em um navegador moderno.
 
 A visão abaixo mostra a dashboard completa sem nenhum filtro aplicado, considerando as 100 vendas da base.
 
-![Dashboard geral sem filtros](dashboard-geral.png)
+[Dashboard geral sem filtros](dashboard-geral.png)
 
 ### Exemplo de filtro aplicado — State = CA
 
 Neste recorte, o filtro de **State** foi alterado para **CA**. A dashboard recalcula automaticamente os KPIs e todas as análises para considerar apenas as vendas desse estado.
 
-![Dashboard com filtro State CA](dashboard-ca.png)
+[Dashboard com filtro State CA](dashboard-ca.png)
 
 ## Fonte visual
 
